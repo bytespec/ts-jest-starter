@@ -6,7 +6,7 @@ Pull the files, npm install, and run with `npm run test` or `npm run test-watch`
 
 
 ```
-npx degit mbaffr/ts-jest-starter my-new-project
+npx degit bytespec/ts-jest-starter my-new-project
 
 cd my-new-project
 
